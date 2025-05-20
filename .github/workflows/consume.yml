@@ -3,4 +3,4 @@ on:
   workflow_dispatch:
 jobs: 
   consume_workflow:
-    - uses: jyl13/ActionsIntermediate/.github/workflow/matrix.yml@main
+    - uses: jyl13/ActionsIntermediate/.github/workflows/matrix.yml@main
